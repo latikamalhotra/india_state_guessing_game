@@ -3,9 +3,13 @@ This is game where you guess states and union territories of india .if you want 
 
 
 **Technologies**
+
 **Python**
+
    Used libraries:
+   
            Pandas: To work with data
+           
            turtle:To construct the screen and handle it
   
 **LIST COMPREHENSION**  
